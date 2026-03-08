@@ -25,4 +25,4 @@ Flappy Bird Game Interface
 
 ## 👨‍💻 Author
 
-Mahmud Bekkar
+Mahmoud Bakar
