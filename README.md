@@ -4,7 +4,7 @@
 A simple **Flappy Bird clone** built using **C# and Windows Forms**.
 
 ## 🎮 Game Description
-![Flappy Bird](FlappyBird/Ppp.png)
+)
 
 The player controls a bird and must fly between pipes without hitting them.
 
