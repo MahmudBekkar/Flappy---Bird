@@ -19,9 +19,8 @@ The player controls a bird and must fly between pipes without hitting them.
 1. Open `FlappyBird.sln` in Visual Studio
 2. Press **Start (F5)** to run the game
 
-## 📷 Screenshot
 
-Flappy Bird Game Interface
+
 
 ## 👨‍💻 Author
 
